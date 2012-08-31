@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+.content {
+	width: 850px;
+	min-height: 200px;
+	padding: 0;
+	box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.5);
+	margin: 10px auto;
+	background: #FFF;
+	overflow: hidden;
+}
+#main-wrap
+{
+
+}
+#header {
+	width: 850px;
+	height: 100px;
+	margin: 0 auto;
+	background: #FFF;
+	padding-top: 20px;
+}
+#header-wrap {
+	width:max;
+	background: white;
+}
+hr {
+	color: #FFF;
+}
+#menu{
+	padding: 0;
+	width: 850px;
+	margin: 0 auto;
+}
+#menu-wrap{
+	height: 40px;
+	background: #69B744;
+	border-bottom: 1px solid #8DC473;
+	border-top: 1px solid #8DC473;
+	alignment-adjust:central;
+}
+#menu a {
+	color: #FFF;
+	text-decoration: none;
+}
+#menu li {
+	float: left;
+	list-style-type:none;
+	margin: 5px 0 0 25px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:16px;
+	font-weight: bold;
+	line-height: 5px;
+}
+#slider-w {
+	width: 510px;
+	height: 370px;
+	border-right: 1px solid #CCC;
+	padding: 10px;
+	float: left;
+	margin: 0 auto;
+}
+#news-w {
+	float:left
+	padding: 10px;
+	float: left;
+	margin: 0 auto;
+}
+#footer {
+	background:#CCC;
+	margin: 25px auto 0;
+	min-height: 50px;
+}
+body {
+	width:100%;
+	margin: 0 auto;
+	background:#F9F9F7;
+	font: 13px/1.5 Helvetica,Arial,'Liberation Sans',FreeSans,sans-serif;
+}
+h1 {
+	letter-spacing: -1px;
+	margin: 0 0 0 10px;
+	font-size: 24px;
+	font-weight:lighter;
+}
+ul {
+}
